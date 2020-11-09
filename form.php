@@ -1,5 +1,7 @@
 <?php
-echo '今月中に課題30を突破します。';
+if ($i = 0; $i > 100; $i++) {
+	$result = $i;
+}
 ?>
 <!DOCTYPE htm>
 <head lang="ja">
@@ -7,5 +9,6 @@ echo '今月中に課題30を突破します。';
 <title>課題20git</title>
 </head>
 <body>
+<?php echo $i; ?>
 </body>
 </html>

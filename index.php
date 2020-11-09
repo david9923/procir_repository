@@ -1,11 +1,4 @@
 <?php
-echo 'gitは便利ですね。tukaikonaseruyouninarou';
+echo '今日も寒いので暖かくして下さい。';
 ?>
-<!DOCTYPE htm>
-<head lang="ja">
-<meta charset="UTF-8">
-<title>課題20git</title>
-</head>
-<body>
-</body>
-</html>
+<!--doctype以降消してみた-->
