@@ -1,5 +1,5 @@
 <?php
-echo 'gitに挑戦します。';
+echo '今月中に課題30を突破します。';
 ?>
 <!DOCTYPE htm>
 <head lang="ja">

@@ -1,5 +1,5 @@
 <?php
-echo '初コミット！';
+echo '課題20を提出してから眠りにつきます。';
 ?>
 <!DOCTYPE htm>
 <head lang="ja">
