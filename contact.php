@@ -12,6 +12,7 @@ echo 'Linebot早く完成させなきゃ。';
 // *初期状態(githubと連携していない場合)でコマンドを打つとerror発生。
 // git config --globalコマンド実行後ユーザー名とメール設定
 // git remote add origin URLを入力 でプッシュしたいリポジトリを設定する。
+// コミット忘れてpushしたらEverything up-to-dateと返ってくる
 ?>
 <!DOCTYPE htm>
 <head lang="ja">
