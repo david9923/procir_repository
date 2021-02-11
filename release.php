@@ -1,0 +1,2 @@
+【releaseブランチ】
+・developブランチから分岐してdevelopブランチとmasterブランチにマージする。
